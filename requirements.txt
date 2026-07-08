@@ -1,0 +1,11 @@
+langchain
+langgraph
+langchain-groq
+langchain-community
+chromadb
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+streamlit
+mcp
+pyngrok
