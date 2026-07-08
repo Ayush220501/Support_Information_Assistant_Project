@@ -60,5 +60,5 @@ What is the current refund policy?
 ## Demo Video
 Add demo link:
 ```
-[https://youtu.be/d-aOQ6FxA3gYOUR_VIDEO_LINK](https://drive.google.com/file/d/17gg4zO9XZzkKY2uGxRmUYcvwsi2xKYtz/view?usp=sharing)
+https://drive.google.com/file/d/17gg4zO9XZzkKY2uGxRmUYcvwsi2xKYtz/view?usp=sharing
 ```
